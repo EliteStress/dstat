@@ -1,7 +1,7 @@
 # Information
 🔥 Dstat.st - t.me/count_bout_bot#1 Dstat site & Dstat Bot! 🔥
 
-<a href="https://dstat.st?github"><img src="[https://i.ibb.co/HLmdGrZQ/photo-2025-07-07-14-35-40.jpg](https://i.ibb.co/WNyRPm2z/photo-2025-07-09-15-58-14.jpg)" alt="pic" border="0"></a>
+<a href="https://dstat.st?github"><img src="https://i.ibb.co/WNyRPm2z/photo-2025-07-09-15-58-14.jpg" alt="pic" border="0"></a>
 
 Are you looking for a powerful, flexible, and reliable Dstat?
 Look no further. Our site and bot are built from the ground up to deliver the most advanced stress-testing experience out there.
