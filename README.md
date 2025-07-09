@@ -29,4 +29,4 @@ No fake power. Our servers deliver 100% accurate statistics based on your tests.
 ⚙️ 100% Uptime
 Our site and bot run on servers with advanced protection since uptime is our main priority.
 
-<a href="https://dstat.st?github"><img src="https://i.ibb.co/gZSMwvSq/standard-6.gif" alt="standard-6" border="0"></a>
+<a href="https://dstat.st?github"><img src="<a href="https://i.ibb.co/ch6ctb6f/standard-6.gif" alt="standard-3" border="0"></a>
