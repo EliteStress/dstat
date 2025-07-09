@@ -1,5 +1,5 @@
 # Information
-🔥 Dstat.st - [CountBout Bot](https://t.me/count_bout_bot) | #1 Dstat site & Dstat Bot! 🔥
+🔥 [Dstat.st](https://dstat.st) - [CountBout Bot](https://t.me/count_bout_bot) | #1 Dstat site & Dstat Bot! 🔥
 
 <a href="https://dstat.st?github"><img src="https://i.ibb.co/WNyRPm2z/photo-2025-07-09-15-58-14.jpg" alt="pic" border="0"></a>
 
