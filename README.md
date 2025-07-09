@@ -11,13 +11,9 @@ Look no further. Our site and bot are built from the ground up to deliver the mo
 Gain access to a wide range of high-performance servers, including:
 
 💎 OVH
-
 💎 TubeHosting
-
 💎 Cloudflare (Managed Challenge, Under Attack Mode)
-
 💎 And many more constantly updated endpoints
-
 This means more options, better results, and realistic testing every time.
 
 
