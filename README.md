@@ -1,5 +1,5 @@
 # Information
-🔥 Dstat.st - t.me/count_bout_bot#1 Dstat site & Dstat Bot! 🔥
+🔥 Dstat.st - [CountBout Bot](https://t.me/count_bout_bot) | #1 Dstat site & Dstat Bot! 🔥
 
 <a href="https://dstat.st?github"><img src="https://i.ibb.co/WNyRPm2z/photo-2025-07-09-15-58-14.jpg" alt="pic" border="0"></a>
 
@@ -29,4 +29,4 @@ No fake power. Our servers deliver 100% accurate statistics based on your tests.
 ⚙️ 100% Uptime
 Our site and bot run on servers with advanced protection since uptime is our main priority.
 
-😍 We hope our Dstats become your new go-to, and we look forward to building something great together!
+<a href="https://dstat.st?github"><img src="https://i.ibb.co/gZSMwvSq/standard-6.gif" alt="standard-6" border="0"></a>
